@@ -6,7 +6,7 @@ public class ThreeSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input size
+        // Input size of array
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
 
