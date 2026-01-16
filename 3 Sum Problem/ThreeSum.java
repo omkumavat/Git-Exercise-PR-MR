@@ -1,12 +1,15 @@
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Scanner;
 
 public class ThreeSum {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input size of array
+        // Input size
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
 
