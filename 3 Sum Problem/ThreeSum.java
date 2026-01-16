@@ -13,6 +13,11 @@ public class ThreeSum {
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
 
+        if(n<=0){
+            System.out.println("Invalid input");
+            return;
+        }
+
         int[] nums = new int[n];
 
         // Input array
