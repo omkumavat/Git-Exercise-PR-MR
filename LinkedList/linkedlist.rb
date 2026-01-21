@@ -100,3 +100,5 @@ begin
   end
 
 end while choice != 5
+
+ll = LinkedList.
