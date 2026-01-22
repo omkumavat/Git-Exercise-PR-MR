@@ -30,7 +30,7 @@ class Queue
     end
   end
 
-  def printQueue
+  def printQueue ## print_queue
     puts "Queue elements:"
     if isQueueEmpty
       puts "Queue is empty."

@@ -1,0 +1,3 @@
+Hello, Ruby!
+This is a text file.
+Appending a new line.
